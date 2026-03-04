@@ -1,0 +1,4520 @@
+[
+  {
+    "customer_id": "C0001",
+    "name": "Amit Sharma",
+    "email": "amit.sharma@gmail.com",
+    "phone": "9876543210",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2023-01-15"
+  },
+  {
+    "customer_id": "C0002",
+    "name": "Neha Verma",
+    "email": "neha.verma@gmail.com",
+    "phone": "9123456780",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "signup_date": "2023-03-10"
+  },
+  {
+    "customer_id": "C0003",
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@gmail.com",
+    "phone": "9988776655",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "signup_date": "2023-06-22"
+  },
+  {
+    "customer_id": "C0004",
+    "name": "Sneha Iyer",
+    "email": "sneha.iyer@gmail.com",
+    "phone": "9090909090",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "signup_date": "2023-09-05"
+  },
+  {
+    "customer_id": "C0004",
+    "name": "Sneha Iyer",
+    "email": "sneha.iyer@gmail.com",
+    "phone": "9090909090",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "signup_date": "2023-09-05"
+  },
+  {
+    "customer_id": "C0002",
+    "name": "Neha Verma",
+    "email": "neha.verma@gmail.com",
+    "phone": "9123456780",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "signup_date": "2023-03-10"
+  },
+  {
+    "customer_id": "C0005",
+    "name": "Customer_5",
+    "email": "customer5@example.com",
+    "phone": "9499826106",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-17"
+  },
+  {
+    "customer_id": "C0006",
+    "name": "Customer_6",
+    "email": "customer6@example.com",
+    "phone": "9559169408",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-29"
+  },
+  {
+    "customer_id": "C0007",
+    "name": "Customer_7",
+    "email": "customer7@example.com",
+    "phone": "9770365497",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-10"
+  },
+  {
+    "customer_id": "C0008",
+    "name": "Customer_8",
+    "email": "customer8@example.com",
+    "phone": "9944713450",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-19"
+  },
+  {
+    "customer_id": "C0009",
+    "name": "Customer_9",
+    "email": "customer9@example.com",
+    "phone": "9900608068",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-07"
+  },
+  {
+    "customer_id": "C0010",
+    "name": "Customer_10",
+    "email": "customer10@example.com",
+    "phone": "9892126642",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-13"
+  },
+  {
+    "customer_id": "C0011",
+    "name": "Customer_11",
+    "email": "customer11@example.com",
+    "phone": "9223431709",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-24"
+  },
+  {
+    "customer_id": "C0012",
+    "name": "Customer_12",
+    "email": "customer12@example.com",
+    "phone": "9228609691",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-21"
+  },
+  {
+    "customer_id": "C0013",
+    "name": "Customer_13",
+    "email": "customer13@example.com",
+    "phone": "9898934169",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-22"
+  },
+  {
+    "customer_id": "C0014",
+    "name": "Customer_14",
+    "email": "customer14@example.com",
+    "phone": "9469335147",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-25"
+  },
+  {
+    "customer_id": "C0015",
+    "name": "Customer_15",
+    "email": "customer15@example.com",
+    "phone": "9906875560",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-12"
+  },
+  {
+    "customer_id": "C0016",
+    "name": "Customer_16",
+    "email": "customer16@example.com",
+    "phone": "9156426652",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-06"
+  },
+  {
+    "customer_id": "C0017",
+    "name": "Customer_17",
+    "email": "customer17@example.com",
+    "phone": "9185949822",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-07"
+  },
+  {
+    "customer_id": "C0018",
+    "name": "Customer_18",
+    "email": "customer18@example.com",
+    "phone": "9656373617",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-12"
+  },
+  {
+    "customer_id": "C0019",
+    "name": "Customer_19",
+    "email": "customer19@example.com",
+    "phone": "9956357920",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-07"
+  },
+  {
+    "customer_id": "C0020",
+    "name": "Customer_20",
+    "email": "customer20@example.com",
+    "phone": "9314915002",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-25"
+  },
+  {
+    "customer_id": "C0021",
+    "name": "Customer_21",
+    "email": "customer21@example.com",
+    "phone": "9909070919",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-18"
+  },
+  {
+    "customer_id": "C0022",
+    "name": "Customer_22",
+    "email": "customer22@example.com",
+    "phone": "9852951011",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-25"
+  },
+  {
+    "customer_id": "C0023",
+    "name": "Customer_23",
+    "email": "customer23@example.com",
+    "phone": "9242826463",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-12-29"
+  },
+  {
+    "customer_id": "C0024",
+    "name": "Customer_24",
+    "email": "customer24@example.com",
+    "phone": "9684021501",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-30"
+  },
+  {
+    "customer_id": "C0025",
+    "name": "Customer_25",
+    "email": "customer25@example.com",
+    "phone": "9454697177",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-23"
+  },
+  {
+    "customer_id": "C0026",
+    "name": "Customer_26",
+    "email": "customer26@example.com",
+    "phone": "9889051150",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-15"
+  },
+  {
+    "customer_id": "C0027",
+    "name": "Customer_27",
+    "email": "customer27@example.com",
+    "phone": "9852268292",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-03"
+  },
+  {
+    "customer_id": "C0028",
+    "name": "Customer_28",
+    "email": "customer28@example.com",
+    "phone": "9282601407",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-19"
+  },
+  {
+    "customer_id": "C0029",
+    "name": "Customer_29",
+    "email": "customer29@example.com",
+    "phone": "9393492749",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-22"
+  },
+  {
+    "customer_id": "C0030",
+    "name": "Customer_30",
+    "email": "customer30@example.com",
+    "phone": "9338115294",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-01"
+  },
+  {
+    "customer_id": "C0031",
+    "name": "Customer_31",
+    "email": "customer31@example.com",
+    "phone": "9446178555",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-16"
+  },
+  {
+    "customer_id": "C0032",
+    "name": "Customer_32",
+    "email": "customer32@example.com",
+    "phone": "9317689233",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-20"
+  },
+  {
+    "customer_id": "C0033",
+    "name": "Customer_33",
+    "email": "customer33@example.com",
+    "phone": "9652265987",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-28"
+  },
+  {
+    "customer_id": "C0034",
+    "name": "Customer_34",
+    "email": "customer34@example.com",
+    "phone": "9813951526",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-05"
+  },
+  {
+    "customer_id": "C0035",
+    "name": "Customer_35",
+    "email": "customer35@example.com",
+    "phone": "9205968454",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-17"
+  },
+  {
+    "customer_id": "C0036",
+    "name": "Customer_36",
+    "email": "customer36@example.com",
+    "phone": "9608233279",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-16"
+  },
+  {
+    "customer_id": "C0037",
+    "name": "Customer_37",
+    "email": "customer37@example.com",
+    "phone": "9550369180",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-03"
+  },
+  {
+    "customer_id": "C0038",
+    "name": "Customer_38",
+    "email": "customer38@example.com",
+    "phone": "9226116417",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-09"
+  },
+  {
+    "customer_id": "C0039",
+    "name": "Customer_39",
+    "email": "customer39@example.com",
+    "phone": "9379339223",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-19"
+  },
+  {
+    "customer_id": "C0040",
+    "name": "Customer_40",
+    "email": "customer40@example.com",
+    "phone": "9355883957",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-28"
+  },
+  {
+    "customer_id": "C0041",
+    "name": "Customer_41",
+    "email": "customer41@example.com",
+    "phone": "9551062625",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-02"
+  },
+  {
+    "customer_id": "C0042",
+    "name": "Customer_42",
+    "email": "customer42@example.com",
+    "phone": "9116435357",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-29"
+  },
+  {
+    "customer_id": "C0043",
+    "name": "Customer_43",
+    "email": "customer43@example.com",
+    "phone": "9388489914",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-06"
+  },
+  {
+    "customer_id": "C0044",
+    "name": "Customer_44",
+    "email": "customer44@example.com",
+    "phone": "9426066951",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-10"
+  },
+  {
+    "customer_id": "C0045",
+    "name": "Customer_45",
+    "email": "customer45@example.com",
+    "phone": "9835166865",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-12"
+  },
+  {
+    "customer_id": "C0046",
+    "name": "Customer_46",
+    "email": "customer46@example.com",
+    "phone": "9927284100",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-02"
+  },
+  {
+    "customer_id": "C0047",
+    "name": "Customer_47",
+    "email": "customer47@example.com",
+    "phone": "9319673127",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-28"
+  },
+  {
+    "customer_id": "C0048",
+    "name": "Customer_48",
+    "email": "customer48@example.com",
+    "phone": "9234382800",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-02-05"
+  },
+  {
+    "customer_id": "C0049",
+    "name": "Customer_49",
+    "email": "customer49@example.com",
+    "phone": "9905324256",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-29"
+  },
+  {
+    "customer_id": "C0050",
+    "name": "Customer_50",
+    "email": "customer50@example.com",
+    "phone": "9847471938",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-14"
+  },
+  {
+    "customer_id": "C0051",
+    "name": "Customer_51",
+    "email": "customer51@example.com",
+    "phone": "9532444660",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-04"
+  },
+  {
+    "customer_id": "C0052",
+    "name": "Customer_52",
+    "email": "customer52@example.com",
+    "phone": "9158386565",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-30"
+  },
+  {
+    "customer_id": "C0053",
+    "name": "Customer_53",
+    "email": "customer53@example.com",
+    "phone": "9603705674",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-31"
+  },
+  {
+    "customer_id": "C0054",
+    "name": "Customer_54",
+    "email": "customer54@example.com",
+    "phone": "9279237308",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-18"
+  },
+  {
+    "customer_id": "C0055",
+    "name": "Customer_55",
+    "email": "customer55@example.com",
+    "phone": "9182540584",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-09"
+  },
+  {
+    "customer_id": "C0056",
+    "name": "Customer_56",
+    "email": "customer56@example.com",
+    "phone": "9153645174",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-12"
+  },
+  {
+    "customer_id": "C0057",
+    "name": "Customer_57",
+    "email": "customer57@example.com",
+    "phone": "9521229009",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-18"
+  },
+  {
+    "customer_id": "C0058",
+    "name": "Customer_58",
+    "email": "customer58@example.com",
+    "phone": "9425304107",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-25"
+  },
+  {
+    "customer_id": "C0059",
+    "name": "Customer_59",
+    "email": "customer59@example.com",
+    "phone": "9320819492",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-30"
+  },
+  {
+    "customer_id": "C0060",
+    "name": "Customer_60",
+    "email": "customer60@example.com",
+    "phone": "9324007790",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-25"
+  },
+  {
+    "customer_id": "C0061",
+    "name": "Customer_61",
+    "email": "customer61@example.com",
+    "phone": "9125667528",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-22"
+  },
+  {
+    "customer_id": "C0062",
+    "name": "Customer_62",
+    "email": "customer62@example.com",
+    "phone": "9562206789",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-17"
+  },
+  {
+    "customer_id": "C0063",
+    "name": "Customer_63",
+    "email": "customer63@example.com",
+    "phone": "9320638467",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-30"
+  },
+  {
+    "customer_id": "C0064",
+    "name": "Customer_64",
+    "email": "customer64@example.com",
+    "phone": "9819881723",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-18"
+  },
+  {
+    "customer_id": "C0065",
+    "name": "Customer_65",
+    "email": "customer65@example.com",
+    "phone": "9903461088",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-27"
+  },
+  {
+    "customer_id": "C0066",
+    "name": "Customer_66",
+    "email": "customer66@example.com",
+    "phone": "9496235155",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-05"
+  },
+  {
+    "customer_id": "C0067",
+    "name": "Customer_67",
+    "email": "customer67@example.com",
+    "phone": "9528691235",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-14"
+  },
+  {
+    "customer_id": "C0068",
+    "name": "Customer_68",
+    "email": "customer68@example.com",
+    "phone": "9342383946",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-01"
+  },
+  {
+    "customer_id": "C0069",
+    "name": "Customer_69",
+    "email": "customer69@example.com",
+    "phone": "9740671496",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-03"
+  },
+  {
+    "customer_id": "C0070",
+    "name": "Customer_70",
+    "email": "customer70@example.com",
+    "phone": "9527857479",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-17"
+  },
+  {
+    "customer_id": "C0071",
+    "name": "Customer_71",
+    "email": "customer71@example.com",
+    "phone": "9502392576",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-20"
+  },
+  {
+    "customer_id": "C0072",
+    "name": "Customer_72",
+    "email": "customer72@example.com",
+    "phone": "9776425730",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-11"
+  },
+  {
+    "customer_id": "C0073",
+    "name": "Customer_73",
+    "email": "customer73@example.com",
+    "phone": "9889062365",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-13"
+  },
+  {
+    "customer_id": "C0074",
+    "name": "Customer_74",
+    "email": "customer74@example.com",
+    "phone": "9571221028",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-28"
+  },
+  {
+    "customer_id": "C0075",
+    "name": "Customer_75",
+    "email": "customer75@example.com",
+    "phone": "9198586393",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-11"
+  },
+  {
+    "customer_id": "C0076",
+    "name": "Customer_76",
+    "email": "customer76@example.com",
+    "phone": "9166002872",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-12"
+  },
+  {
+    "customer_id": "C0077",
+    "name": "Customer_77",
+    "email": "customer77@example.com",
+    "phone": "9292595736",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-20"
+  },
+  {
+    "customer_id": "C0078",
+    "name": "Customer_78",
+    "email": "customer78@example.com",
+    "phone": "9221099225",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-19"
+  },
+  {
+    "customer_id": "C0079",
+    "name": "Customer_79",
+    "email": "customer79@example.com",
+    "phone": "9549210091",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-23"
+  },
+  {
+    "customer_id": "C0080",
+    "name": "Customer_80",
+    "email": "customer80@example.com",
+    "phone": "9888296362",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-22"
+  },
+  {
+    "customer_id": "C0081",
+    "name": "Customer_81",
+    "email": "customer81@example.com",
+    "phone": "9325385144",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-27"
+  },
+  {
+    "customer_id": "C0082",
+    "name": "Customer_82",
+    "email": "customer82@example.com",
+    "phone": "9815766902",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-27"
+  },
+  {
+    "customer_id": "C0083",
+    "name": "Customer_83",
+    "email": "customer83@example.com",
+    "phone": "9492410687",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-06"
+  },
+  {
+    "customer_id": "C0084",
+    "name": "Customer_84",
+    "email": "customer84@example.com",
+    "phone": "9232530629",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-09"
+  },
+  {
+    "customer_id": "C0085",
+    "name": "Customer_85",
+    "email": "customer85@example.com",
+    "phone": "9576855469",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-17"
+  },
+  {
+    "customer_id": "C0086",
+    "name": "Customer_86",
+    "email": "customer86@example.com",
+    "phone": "9443690719",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-02-15"
+  },
+  {
+    "customer_id": "C0087",
+    "name": "Customer_87",
+    "email": "customer87@example.com",
+    "phone": "9674656585",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-17"
+  },
+  {
+    "customer_id": "C0088",
+    "name": "Customer_88",
+    "email": "customer88@example.com",
+    "phone": "9828329593",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-10"
+  },
+  {
+    "customer_id": "C0089",
+    "name": "Customer_89",
+    "email": "customer89@example.com",
+    "phone": "9291716252",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-13"
+  },
+  {
+    "customer_id": "C0090",
+    "name": "Customer_90",
+    "email": "customer90@example.com",
+    "phone": "9933885333",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-18"
+  },
+  {
+    "customer_id": "C0091",
+    "name": "Customer_91",
+    "email": "customer91@example.com",
+    "phone": "9427815319",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-28"
+  },
+  {
+    "customer_id": "C0092",
+    "name": "Customer_92",
+    "email": "customer92@example.com",
+    "phone": "9911222420",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-12-29"
+  },
+  {
+    "customer_id": "C0093",
+    "name": "Customer_93",
+    "email": "customer93@example.com",
+    "phone": "9971868731",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-09"
+  },
+  {
+    "customer_id": "C0094",
+    "name": "Customer_94",
+    "email": "customer94@example.com",
+    "phone": "9870928948",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-27"
+  },
+  {
+    "customer_id": "C0095",
+    "name": "Customer_95",
+    "email": "customer95@example.com",
+    "phone": "9672086375",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-07"
+  },
+  {
+    "customer_id": "C0096",
+    "name": "Customer_96",
+    "email": "customer96@example.com",
+    "phone": "9865445868",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-03"
+  },
+  {
+    "customer_id": "C0097",
+    "name": "Customer_97",
+    "email": "customer97@example.com",
+    "phone": "9411928875",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-19"
+  },
+  {
+    "customer_id": "C0098",
+    "name": "Customer_98",
+    "email": "customer98@example.com",
+    "phone": "9670655714",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-20"
+  },
+  {
+    "customer_id": "C0099",
+    "name": "Customer_99",
+    "email": "customer99@example.com",
+    "phone": "9706583760",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-14"
+  },
+  {
+    "customer_id": "C0100",
+    "name": "Customer_100",
+    "email": "customer100@example.com",
+    "phone": "9981865084",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-18"
+  },
+  {
+    "customer_id": "C0101",
+    "name": "Customer_101",
+    "email": "customer101@example.com",
+    "phone": "9672081208",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-25"
+  },
+  {
+    "customer_id": "C0102",
+    "name": "Customer_102",
+    "email": "customer102@example.com",
+    "phone": "9833555125",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-23"
+  },
+  {
+    "customer_id": "C0103",
+    "name": "Customer_103",
+    "email": "customer103@example.com",
+    "phone": "9990186382",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-08"
+  },
+  {
+    "customer_id": "C0104",
+    "name": "Customer_104",
+    "email": "customer104@example.com",
+    "phone": "9543868803",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-30"
+  },
+  {
+    "customer_id": "C0105",
+    "name": "Customer_105",
+    "email": "customer105@example.com",
+    "phone": "9805468122",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-19"
+  },
+  {
+    "customer_id": "C0106",
+    "name": "Customer_106",
+    "email": "customer106@example.com",
+    "phone": "9739307857",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-26"
+  },
+  {
+    "customer_id": "C0107",
+    "name": "Customer_107",
+    "email": "customer107@example.com",
+    "phone": "9209894628",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-05"
+  },
+  {
+    "customer_id": "C0108",
+    "name": "Customer_108",
+    "email": "customer108@example.com",
+    "phone": "9813768900",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-05"
+  },
+  {
+    "customer_id": "C0109",
+    "name": "Customer_109",
+    "email": "customer109@example.com",
+    "phone": "9664279354",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-04"
+  },
+  {
+    "customer_id": "C0110",
+    "name": "Customer_110",
+    "email": "customer110@example.com",
+    "phone": "9401493405",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-02"
+  },
+  {
+    "customer_id": "C0111",
+    "name": "Customer_111",
+    "email": "customer111@example.com",
+    "phone": "9686717824",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-16"
+  },
+  {
+    "customer_id": "C0112",
+    "name": "Customer_112",
+    "email": "customer112@example.com",
+    "phone": "9293212788",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-24"
+  },
+  {
+    "customer_id": "C0113",
+    "name": "Customer_113",
+    "email": "customer113@example.com",
+    "phone": "9902621411",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-20"
+  },
+  {
+    "customer_id": "C0114",
+    "name": "Customer_114",
+    "email": "customer114@example.com",
+    "phone": "9324619612",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-04"
+  },
+  {
+    "customer_id": "C0115",
+    "name": "Customer_115",
+    "email": "customer115@example.com",
+    "phone": "9812771673",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-22"
+  },
+  {
+    "customer_id": "C0116",
+    "name": "Customer_116",
+    "email": "customer116@example.com",
+    "phone": "9295115259",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-27"
+  },
+  {
+    "customer_id": "C0117",
+    "name": "Customer_117",
+    "email": "customer117@example.com",
+    "phone": "9515581769",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-28"
+  },
+  {
+    "customer_id": "C0118",
+    "name": "Customer_118",
+    "email": "customer118@example.com",
+    "phone": "9968074661",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-17"
+  },
+  {
+    "customer_id": "C0119",
+    "name": "Customer_119",
+    "email": "customer119@example.com",
+    "phone": "9918996757",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-03"
+  },
+  {
+    "customer_id": "C0120",
+    "name": "Customer_120",
+    "email": "customer120@example.com",
+    "phone": "9235817864",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-17"
+  },
+  {
+    "customer_id": "C0121",
+    "name": "Customer_121",
+    "email": "customer121@example.com",
+    "phone": "9396838161",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-10"
+  },
+  {
+    "customer_id": "C0122",
+    "name": "Customer_122",
+    "email": "customer122@example.com",
+    "phone": "9894646887",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-02"
+  },
+  {
+    "customer_id": "C0123",
+    "name": "Customer_123",
+    "email": "customer123@example.com",
+    "phone": "9484350352",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-03"
+  },
+  {
+    "customer_id": "C0124",
+    "name": "Customer_124",
+    "email": "customer124@example.com",
+    "phone": "9276902810",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-01"
+  },
+  {
+    "customer_id": "C0125",
+    "name": "Customer_125",
+    "email": "customer125@example.com",
+    "phone": "9612802621",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-24"
+  },
+  {
+    "customer_id": "C0126",
+    "name": "Customer_126",
+    "email": "customer126@example.com",
+    "phone": "9417472835",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-28"
+  },
+  {
+    "customer_id": "C0127",
+    "name": "Customer_127",
+    "email": "customer127@example.com",
+    "phone": "9838610190",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-29"
+  },
+  {
+    "customer_id": "C0128",
+    "name": "Customer_128",
+    "email": "customer128@example.com",
+    "phone": "9642951634",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-08"
+  },
+  {
+    "customer_id": "C0129",
+    "name": "Customer_129",
+    "email": "customer129@example.com",
+    "phone": "9534973849",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-24"
+  },
+  {
+    "customer_id": "C0130",
+    "name": "Customer_130",
+    "email": "customer130@example.com",
+    "phone": "9143208214",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-02"
+  },
+  {
+    "customer_id": "C0131",
+    "name": "Customer_131",
+    "email": "customer131@example.com",
+    "phone": "9540607427",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-09"
+  },
+  {
+    "customer_id": "C0132",
+    "name": "Customer_132",
+    "email": "customer132@example.com",
+    "phone": "9186305181",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-06"
+  },
+  {
+    "customer_id": "C0133",
+    "name": "Customer_133",
+    "email": "customer133@example.com",
+    "phone": "9456532139",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-09"
+  },
+  {
+    "customer_id": "C0134",
+    "name": "Customer_134",
+    "email": "customer134@example.com",
+    "phone": "9648275933",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-04"
+  },
+  {
+    "customer_id": "C0135",
+    "name": "Customer_135",
+    "email": "customer135@example.com",
+    "phone": "9739190954",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-27"
+  },
+  {
+    "customer_id": "C0136",
+    "name": "Customer_136",
+    "email": "customer136@example.com",
+    "phone": "9696419885",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-22"
+  },
+  {
+    "customer_id": "C0137",
+    "name": "Customer_137",
+    "email": "customer137@example.com",
+    "phone": "9199744424",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-08"
+  },
+  {
+    "customer_id": "C0138",
+    "name": "Customer_138",
+    "email": "customer138@example.com",
+    "phone": "9804622965",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-09"
+  },
+  {
+    "customer_id": "C0139",
+    "name": "Customer_139",
+    "email": "customer139@example.com",
+    "phone": "9256701916",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-06"
+  },
+  {
+    "customer_id": "C0140",
+    "name": "Customer_140",
+    "email": "customer140@example.com",
+    "phone": "9885888030",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-25"
+  },
+  {
+    "customer_id": "C0141",
+    "name": "Customer_141",
+    "email": "customer141@example.com",
+    "phone": "9960459442",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-10"
+  },
+  {
+    "customer_id": "C0142",
+    "name": "Customer_142",
+    "email": "customer142@example.com",
+    "phone": "9444138767",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-24"
+  },
+  {
+    "customer_id": "C0143",
+    "name": "Customer_143",
+    "email": "customer143@example.com",
+    "phone": "9374576893",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-24"
+  },
+  {
+    "customer_id": "C0144",
+    "name": "Customer_144",
+    "email": "customer144@example.com",
+    "phone": "9770648893",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-04"
+  },
+  {
+    "customer_id": "C0145",
+    "name": "Customer_145",
+    "email": "customer145@example.com",
+    "phone": "9776953989",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-15"
+  },
+  {
+    "customer_id": "C0146",
+    "name": "Customer_146",
+    "email": "customer146@example.com",
+    "phone": "9784897530",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-06"
+  },
+  {
+    "customer_id": "C0147",
+    "name": "Customer_147",
+    "email": "customer147@example.com",
+    "phone": "9683025604",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-06"
+  },
+  {
+    "customer_id": "C0148",
+    "name": "Customer_148",
+    "email": "customer148@example.com",
+    "phone": "9374748724",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-21"
+  },
+  {
+    "customer_id": "C0149",
+    "name": "Customer_149",
+    "email": "customer149@example.com",
+    "phone": "9567855127",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-27"
+  },
+  {
+    "customer_id": "C0150",
+    "name": "Customer_150",
+    "email": "customer150@example.com",
+    "phone": "9733546800",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-04"
+  },
+  {
+    "customer_id": "C0151",
+    "name": "Customer_151",
+    "email": "customer151@example.com",
+    "phone": "9201877236",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-01"
+  },
+  {
+    "customer_id": "C0152",
+    "name": "Customer_152",
+    "email": "customer152@example.com",
+    "phone": "9794488231",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-25"
+  },
+  {
+    "customer_id": "C0153",
+    "name": "Customer_153",
+    "email": "customer153@example.com",
+    "phone": "9153301330",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-08"
+  },
+  {
+    "customer_id": "C0154",
+    "name": "Customer_154",
+    "email": "customer154@example.com",
+    "phone": "9775660382",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-05"
+  },
+  {
+    "customer_id": "C0155",
+    "name": "Customer_155",
+    "email": "customer155@example.com",
+    "phone": "9854072657",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-02"
+  },
+  {
+    "customer_id": "C0156",
+    "name": "Customer_156",
+    "email": "customer156@example.com",
+    "phone": "9312259470",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-22"
+  },
+  {
+    "customer_id": "C0157",
+    "name": "Customer_157",
+    "email": "customer157@example.com",
+    "phone": "9685293099",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-18"
+  },
+  {
+    "customer_id": "C0158",
+    "name": "Customer_158",
+    "email": "customer158@example.com",
+    "phone": "9350355947",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-19"
+  },
+  {
+    "customer_id": "C0159",
+    "name": "Customer_159",
+    "email": "customer159@example.com",
+    "phone": "9484656357",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-23"
+  },
+  {
+    "customer_id": "C0160",
+    "name": "Customer_160",
+    "email": "customer160@example.com",
+    "phone": "9157422523",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-20"
+  },
+  {
+    "customer_id": "C0161",
+    "name": "Customer_161",
+    "email": "customer161@example.com",
+    "phone": "9303253591",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-16"
+  },
+  {
+    "customer_id": "C0162",
+    "name": "Customer_162",
+    "email": "customer162@example.com",
+    "phone": "9716710475",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-24"
+  },
+  {
+    "customer_id": "C0163",
+    "name": "Customer_163",
+    "email": "customer163@example.com",
+    "phone": "9142985234",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-14"
+  },
+  {
+    "customer_id": "C0164",
+    "name": "Customer_164",
+    "email": "customer164@example.com",
+    "phone": "9667550686",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-20"
+  },
+  {
+    "customer_id": "C0165",
+    "name": "Customer_165",
+    "email": "customer165@example.com",
+    "phone": "9920817723",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-20"
+  },
+  {
+    "customer_id": "C0166",
+    "name": "Customer_166",
+    "email": "customer166@example.com",
+    "phone": "9287935927",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-18"
+  },
+  {
+    "customer_id": "C0167",
+    "name": "Customer_167",
+    "email": "customer167@example.com",
+    "phone": "9802058831",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-10"
+  },
+  {
+    "customer_id": "C0168",
+    "name": "Customer_168",
+    "email": "customer168@example.com",
+    "phone": "9135884257",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-08"
+  },
+  {
+    "customer_id": "C0169",
+    "name": "Customer_169",
+    "email": "customer169@example.com",
+    "phone": "9409355740",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-03"
+  },
+  {
+    "customer_id": "C0170",
+    "name": "Customer_170",
+    "email": "customer170@example.com",
+    "phone": "9432643263",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-17"
+  },
+  {
+    "customer_id": "C0171",
+    "name": "Customer_171",
+    "email": "customer171@example.com",
+    "phone": "9744564626",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-26"
+  },
+  {
+    "customer_id": "C0172",
+    "name": "Customer_172",
+    "email": "customer172@example.com",
+    "phone": "9282450331",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-04"
+  },
+  {
+    "customer_id": "C0173",
+    "name": "Customer_173",
+    "email": "customer173@example.com",
+    "phone": "9449143472",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-22"
+  },
+  {
+    "customer_id": "C0174",
+    "name": "Customer_174",
+    "email": "customer174@example.com",
+    "phone": "9496470624",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-18"
+  },
+  {
+    "customer_id": "C0175",
+    "name": "Customer_175",
+    "email": "customer175@example.com",
+    "phone": "9321947390",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-29"
+  },
+  {
+    "customer_id": "C0176",
+    "name": "Customer_176",
+    "email": "customer176@example.com",
+    "phone": "9769894555",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-24"
+  },
+  {
+    "customer_id": "C0177",
+    "name": "Customer_177",
+    "email": "customer177@example.com",
+    "phone": "9591726699",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-24"
+  },
+  {
+    "customer_id": "C0178",
+    "name": "Customer_178",
+    "email": "customer178@example.com",
+    "phone": "9659751484",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-02"
+  },
+  {
+    "customer_id": "C0179",
+    "name": "Customer_179",
+    "email": "customer179@example.com",
+    "phone": "9886117174",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-05"
+  },
+  {
+    "customer_id": "C0180",
+    "name": "Customer_180",
+    "email": "customer180@example.com",
+    "phone": "9805244606",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-07"
+  },
+  {
+    "customer_id": "C0181",
+    "name": "Customer_181",
+    "email": "customer181@example.com",
+    "phone": "9913517004",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-26"
+  },
+  {
+    "customer_id": "C0182",
+    "name": "Customer_182",
+    "email": "customer182@example.com",
+    "phone": "9875104925",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-16"
+  },
+  {
+    "customer_id": "C0183",
+    "name": "Customer_183",
+    "email": "customer183@example.com",
+    "phone": "9119371901",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-12"
+  },
+  {
+    "customer_id": "C0184",
+    "name": "Customer_184",
+    "email": "customer184@example.com",
+    "phone": "9608521813",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-17"
+  },
+  {
+    "customer_id": "C0185",
+    "name": "Customer_185",
+    "email": "customer185@example.com",
+    "phone": "9591130354",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-29"
+  },
+  {
+    "customer_id": "C0186",
+    "name": "Customer_186",
+    "email": "customer186@example.com",
+    "phone": "9871304184",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-09"
+  },
+  {
+    "customer_id": "C0187",
+    "name": "Customer_187",
+    "email": "customer187@example.com",
+    "phone": "9968161450",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-24"
+  },
+  {
+    "customer_id": "C0188",
+    "name": "Customer_188",
+    "email": "customer188@example.com",
+    "phone": "9889479927",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-06"
+  },
+  {
+    "customer_id": "C0189",
+    "name": "Customer_189",
+    "email": "customer189@example.com",
+    "phone": "9162261427",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-30"
+  },
+  {
+    "customer_id": "C0190",
+    "name": "Customer_190",
+    "email": "customer190@example.com",
+    "phone": "9615804913",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-21"
+  },
+  {
+    "customer_id": "C0191",
+    "name": "Customer_191",
+    "email": "customer191@example.com",
+    "phone": "9150639533",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-04"
+  },
+  {
+    "customer_id": "C0192",
+    "name": "Customer_192",
+    "email": "customer192@example.com",
+    "phone": "9780691275",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-18"
+  },
+  {
+    "customer_id": "C0193",
+    "name": "Customer_193",
+    "email": "customer193@example.com",
+    "phone": "9402264490",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-15"
+  },
+  {
+    "customer_id": "C0194",
+    "name": "Customer_194",
+    "email": "customer194@example.com",
+    "phone": "9446719233",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-08"
+  },
+  {
+    "customer_id": "C0195",
+    "name": "Customer_195",
+    "email": "customer195@example.com",
+    "phone": "9809011692",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-18"
+  },
+  {
+    "customer_id": "C0196",
+    "name": "Customer_196",
+    "email": "customer196@example.com",
+    "phone": "9441505167",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-22"
+  },
+  {
+    "customer_id": "C0197",
+    "name": "Customer_197",
+    "email": "customer197@example.com",
+    "phone": "9335324087",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-07"
+  },
+  {
+    "customer_id": "C0198",
+    "name": "Customer_198",
+    "email": "customer198@example.com",
+    "phone": "9709090053",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-12"
+  },
+  {
+    "customer_id": "C0199",
+    "name": "Customer_199",
+    "email": "customer199@example.com",
+    "phone": "9375060398",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-18"
+  },
+  {
+    "customer_id": "C0200",
+    "name": "Customer_200",
+    "email": "customer200@example.com",
+    "phone": "9919441485",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-11"
+  },
+  {
+    "customer_id": "C0201",
+    "name": "Customer_201",
+    "email": "customer201@example.com",
+    "phone": "9707407931",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-08"
+  },
+  {
+    "customer_id": "C0202",
+    "name": "Customer_202",
+    "email": "customer202@example.com",
+    "phone": "9977889298",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-12-17"
+  },
+  {
+    "customer_id": "C0203",
+    "name": "Customer_203",
+    "email": "customer203@example.com",
+    "phone": "9244526794",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-21"
+  },
+  {
+    "customer_id": "C0204",
+    "name": "Customer_204",
+    "email": "customer204@example.com",
+    "phone": "9642010568",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-30"
+  },
+  {
+    "customer_id": "C0205",
+    "name": "Customer_205",
+    "email": "customer205@example.com",
+    "phone": "9252896066",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-26"
+  },
+  {
+    "customer_id": "C0206",
+    "name": "Customer_206",
+    "email": "customer206@example.com",
+    "phone": "9958632054",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-21"
+  },
+  {
+    "customer_id": "C0207",
+    "name": "Customer_207",
+    "email": "customer207@example.com",
+    "phone": "9271797878",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-02-10"
+  },
+  {
+    "customer_id": "C0208",
+    "name": "Customer_208",
+    "email": "customer208@example.com",
+    "phone": "9207992818",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-23"
+  },
+  {
+    "customer_id": "C0209",
+    "name": "Customer_209",
+    "email": "customer209@example.com",
+    "phone": "9186308427",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-03"
+  },
+  {
+    "customer_id": "C0210",
+    "name": "Customer_210",
+    "email": "customer210@example.com",
+    "phone": "9176551362",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-07"
+  },
+  {
+    "customer_id": "C0211",
+    "name": "Customer_211",
+    "email": "customer211@example.com",
+    "phone": "9243597276",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-27"
+  },
+  {
+    "customer_id": "C0212",
+    "name": "Customer_212",
+    "email": "customer212@example.com",
+    "phone": "9699807674",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-25"
+  },
+  {
+    "customer_id": "C0213",
+    "name": "Customer_213",
+    "email": "customer213@example.com",
+    "phone": "9990750013",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-18"
+  },
+  {
+    "customer_id": "C0214",
+    "name": "Customer_214",
+    "email": "customer214@example.com",
+    "phone": "9209539474",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-10"
+  },
+  {
+    "customer_id": "C0215",
+    "name": "Customer_215",
+    "email": "customer215@example.com",
+    "phone": "9101782072",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-28"
+  },
+  {
+    "customer_id": "C0216",
+    "name": "Customer_216",
+    "email": "customer216@example.com",
+    "phone": "9949713211",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-01"
+  },
+  {
+    "customer_id": "C0217",
+    "name": "Customer_217",
+    "email": "customer217@example.com",
+    "phone": "9993963367",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-08"
+  },
+  {
+    "customer_id": "C0218",
+    "name": "Customer_218",
+    "email": "customer218@example.com",
+    "phone": "9230736174",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-17"
+  },
+  {
+    "customer_id": "C0219",
+    "name": "Customer_219",
+    "email": "customer219@example.com",
+    "phone": "9698954264",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-03"
+  },
+  {
+    "customer_id": "C0220",
+    "name": "Customer_220",
+    "email": "customer220@example.com",
+    "phone": "9514000908",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-22"
+  },
+  {
+    "customer_id": "C0221",
+    "name": "Customer_221",
+    "email": "customer221@example.com",
+    "phone": "9551885692",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-02"
+  },
+  {
+    "customer_id": "C0222",
+    "name": "Customer_222",
+    "email": "customer222@example.com",
+    "phone": "9903737423",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-06"
+  },
+  {
+    "customer_id": "C0223",
+    "name": "Customer_223",
+    "email": "customer223@example.com",
+    "phone": "9478747512",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-05"
+  },
+  {
+    "customer_id": "C0224",
+    "name": "Customer_224",
+    "email": "customer224@example.com",
+    "phone": "9896114744",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-15"
+  },
+  {
+    "customer_id": "C0225",
+    "name": "Customer_225",
+    "email": "customer225@example.com",
+    "phone": "9324924091",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-02"
+  },
+  {
+    "customer_id": "C0226",
+    "name": "Customer_226",
+    "email": "customer226@example.com",
+    "phone": "9325362161",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-20"
+  },
+  {
+    "customer_id": "C0227",
+    "name": "Customer_227",
+    "email": "customer227@example.com",
+    "phone": "9751808345",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-27"
+  },
+  {
+    "customer_id": "C0228",
+    "name": "Customer_228",
+    "email": "customer228@example.com",
+    "phone": "9528663528",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-06"
+  },
+  {
+    "customer_id": "C0229",
+    "name": "Customer_229",
+    "email": "customer229@example.com",
+    "phone": "9154971646",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-18"
+  },
+  {
+    "customer_id": "C0230",
+    "name": "Customer_230",
+    "email": "customer230@example.com",
+    "phone": "9185753312",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-08"
+  },
+  {
+    "customer_id": "C0231",
+    "name": "Customer_231",
+    "email": "customer231@example.com",
+    "phone": "9291655124",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-23"
+  },
+  {
+    "customer_id": "C0232",
+    "name": "Customer_232",
+    "email": "customer232@example.com",
+    "phone": "9163571679",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-06"
+  },
+  {
+    "customer_id": "C0233",
+    "name": "Customer_233",
+    "email": "customer233@example.com",
+    "phone": "9483139585",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-14"
+  },
+  {
+    "customer_id": "C0234",
+    "name": "Customer_234",
+    "email": "customer234@example.com",
+    "phone": "9312350852",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-06"
+  },
+  {
+    "customer_id": "C0235",
+    "name": "Customer_235",
+    "email": "customer235@example.com",
+    "phone": "9946560510",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-06"
+  },
+  {
+    "customer_id": "C0236",
+    "name": "Customer_236",
+    "email": "customer236@example.com",
+    "phone": "9282951524",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-05"
+  },
+  {
+    "customer_id": "C0237",
+    "name": "Customer_237",
+    "email": "customer237@example.com",
+    "phone": "9766737478",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-03"
+  },
+  {
+    "customer_id": "C0238",
+    "name": "Customer_238",
+    "email": "customer238@example.com",
+    "phone": "9117928115",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-12-10"
+  },
+  {
+    "customer_id": "C0239",
+    "name": "Customer_239",
+    "email": "customer239@example.com",
+    "phone": "9937247024",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-01"
+  },
+  {
+    "customer_id": "C0240",
+    "name": "Customer_240",
+    "email": "customer240@example.com",
+    "phone": "9264198306",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-05"
+  },
+  {
+    "customer_id": "C0241",
+    "name": "Customer_241",
+    "email": "customer241@example.com",
+    "phone": "9630216140",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-29"
+  },
+  {
+    "customer_id": "C0242",
+    "name": "Customer_242",
+    "email": "customer242@example.com",
+    "phone": "9931505281",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-18"
+  },
+  {
+    "customer_id": "C0243",
+    "name": "Customer_243",
+    "email": "customer243@example.com",
+    "phone": "9957801355",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-19"
+  },
+  {
+    "customer_id": "C0244",
+    "name": "Customer_244",
+    "email": "customer244@example.com",
+    "phone": "9666783998",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-28"
+  },
+  {
+    "customer_id": "C0245",
+    "name": "Customer_245",
+    "email": "customer245@example.com",
+    "phone": "9734909051",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-27"
+  },
+  {
+    "customer_id": "C0246",
+    "name": "Customer_246",
+    "email": "customer246@example.com",
+    "phone": "9645742534",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-17"
+  },
+  {
+    "customer_id": "C0247",
+    "name": "Customer_247",
+    "email": "customer247@example.com",
+    "phone": "9579642308",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-01"
+  },
+  {
+    "customer_id": "C0248",
+    "name": "Customer_248",
+    "email": "customer248@example.com",
+    "phone": "9159324835",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-23"
+  },
+  {
+    "customer_id": "C0249",
+    "name": "Customer_249",
+    "email": "customer249@example.com",
+    "phone": "9335916727",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-18"
+  },
+  {
+    "customer_id": "C0250",
+    "name": "Customer_250",
+    "email": "customer250@example.com",
+    "phone": "9368457082",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-11"
+  },
+  {
+    "customer_id": "C0251",
+    "name": "Customer_251",
+    "email": "customer251@example.com",
+    "phone": "9324232373",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-30"
+  },
+  {
+    "customer_id": "C0252",
+    "name": "Customer_252",
+    "email": "customer252@example.com",
+    "phone": "9436781585",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-21"
+  },
+  {
+    "customer_id": "C0253",
+    "name": "Customer_253",
+    "email": "customer253@example.com",
+    "phone": "9134030600",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-02"
+  },
+  {
+    "customer_id": "C0254",
+    "name": "Customer_254",
+    "email": "customer254@example.com",
+    "phone": "9507493839",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-03"
+  },
+  {
+    "customer_id": "C0255",
+    "name": "Customer_255",
+    "email": "customer255@example.com",
+    "phone": "9610024171",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-04"
+  },
+  {
+    "customer_id": "C0256",
+    "name": "Customer_256",
+    "email": "customer256@example.com",
+    "phone": "9786756814",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-22"
+  },
+  {
+    "customer_id": "C0257",
+    "name": "Customer_257",
+    "email": "customer257@example.com",
+    "phone": "9433656894",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-06"
+  },
+  {
+    "customer_id": "C0258",
+    "name": "Customer_258",
+    "email": "customer258@example.com",
+    "phone": "9235169070",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-29"
+  },
+  {
+    "customer_id": "C0259",
+    "name": "Customer_259",
+    "email": "customer259@example.com",
+    "phone": "9542183821",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-16"
+  },
+  {
+    "customer_id": "C0260",
+    "name": "Customer_260",
+    "email": "customer260@example.com",
+    "phone": "9526699804",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-01"
+  },
+  {
+    "customer_id": "C0261",
+    "name": "Customer_261",
+    "email": "customer261@example.com",
+    "phone": "9872992132",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-08"
+  },
+  {
+    "customer_id": "C0262",
+    "name": "Customer_262",
+    "email": "customer262@example.com",
+    "phone": "9872349533",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-19"
+  },
+  {
+    "customer_id": "C0263",
+    "name": "Customer_263",
+    "email": "customer263@example.com",
+    "phone": "9399907434",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-10"
+  },
+  {
+    "customer_id": "C0264",
+    "name": "Customer_264",
+    "email": "customer264@example.com",
+    "phone": "9989304608",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-08"
+  },
+  {
+    "customer_id": "C0265",
+    "name": "Customer_265",
+    "email": "customer265@example.com",
+    "phone": "9989072812",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-29"
+  },
+  {
+    "customer_id": "C0266",
+    "name": "Customer_266",
+    "email": "customer266@example.com",
+    "phone": "9312738665",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-12-01"
+  },
+  {
+    "customer_id": "C0267",
+    "name": "Customer_267",
+    "email": "customer267@example.com",
+    "phone": "9939694367",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-25"
+  },
+  {
+    "customer_id": "C0268",
+    "name": "Customer_268",
+    "email": "customer268@example.com",
+    "phone": "9426104904",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-30"
+  },
+  {
+    "customer_id": "C0269",
+    "name": "Customer_269",
+    "email": "customer269@example.com",
+    "phone": "9970908984",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-10"
+  },
+  {
+    "customer_id": "C0270",
+    "name": "Customer_270",
+    "email": "customer270@example.com",
+    "phone": "9920625471",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-03"
+  },
+  {
+    "customer_id": "C0271",
+    "name": "Customer_271",
+    "email": "customer271@example.com",
+    "phone": "9377887930",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-21"
+  },
+  {
+    "customer_id": "C0272",
+    "name": "Customer_272",
+    "email": "customer272@example.com",
+    "phone": "9979254360",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-13"
+  },
+  {
+    "customer_id": "C0273",
+    "name": "Customer_273",
+    "email": "customer273@example.com",
+    "phone": "9327745990",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-02-02"
+  },
+  {
+    "customer_id": "C0274",
+    "name": "Customer_274",
+    "email": "customer274@example.com",
+    "phone": "9676333580",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-22"
+  },
+  {
+    "customer_id": "C0275",
+    "name": "Customer_275",
+    "email": "customer275@example.com",
+    "phone": "9673488983",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-27"
+  },
+  {
+    "customer_id": "C0276",
+    "name": "Customer_276",
+    "email": "customer276@example.com",
+    "phone": "9230919764",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-14"
+  },
+  {
+    "customer_id": "C0277",
+    "name": "Customer_277",
+    "email": "customer277@example.com",
+    "phone": "9646067083",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-26"
+  },
+  {
+    "customer_id": "C0278",
+    "name": "Customer_278",
+    "email": "customer278@example.com",
+    "phone": "9444541429",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-09"
+  },
+  {
+    "customer_id": "C0279",
+    "name": "Customer_279",
+    "email": "customer279@example.com",
+    "phone": "9617895811",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-01"
+  },
+  {
+    "customer_id": "C0280",
+    "name": "Customer_280",
+    "email": "customer280@example.com",
+    "phone": "9891654704",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-19"
+  },
+  {
+    "customer_id": "C0281",
+    "name": "Customer_281",
+    "email": "customer281@example.com",
+    "phone": "9455875530",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-28"
+  },
+  {
+    "customer_id": "C0282",
+    "name": "Customer_282",
+    "email": "customer282@example.com",
+    "phone": "9787883457",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-31"
+  },
+  {
+    "customer_id": "C0283",
+    "name": "Customer_283",
+    "email": "customer283@example.com",
+    "phone": "9585104739",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-09"
+  },
+  {
+    "customer_id": "C0284",
+    "name": "Customer_284",
+    "email": "customer284@example.com",
+    "phone": "9471659851",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-13"
+  },
+  {
+    "customer_id": "C0285",
+    "name": "Customer_285",
+    "email": "customer285@example.com",
+    "phone": "9511583261",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-02-17"
+  },
+  {
+    "customer_id": "C0286",
+    "name": "Customer_286",
+    "email": "customer286@example.com",
+    "phone": "9423422948",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-16"
+  },
+  {
+    "customer_id": "C0287",
+    "name": "Customer_287",
+    "email": "customer287@example.com",
+    "phone": "9437705413",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-03"
+  },
+  {
+    "customer_id": "C0288",
+    "name": "Customer_288",
+    "email": "customer288@example.com",
+    "phone": "9599329360",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-18"
+  },
+  {
+    "customer_id": "C0289",
+    "name": "Customer_289",
+    "email": "customer289@example.com",
+    "phone": "9178596452",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-22"
+  },
+  {
+    "customer_id": "C0290",
+    "name": "Customer_290",
+    "email": "customer290@example.com",
+    "phone": "9636947161",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-23"
+  },
+  {
+    "customer_id": "C0291",
+    "name": "Customer_291",
+    "email": "customer291@example.com",
+    "phone": "9135845500",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-01"
+  },
+  {
+    "customer_id": "C0292",
+    "name": "Customer_292",
+    "email": "customer292@example.com",
+    "phone": "9917304270",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-24"
+  },
+  {
+    "customer_id": "C0293",
+    "name": "Customer_293",
+    "email": "customer293@example.com",
+    "phone": "9604326761",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-24"
+  },
+  {
+    "customer_id": "C0294",
+    "name": "Customer_294",
+    "email": "customer294@example.com",
+    "phone": "9183911036",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-19"
+  },
+  {
+    "customer_id": "C0295",
+    "name": "Customer_295",
+    "email": "customer295@example.com",
+    "phone": "9212817414",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-22"
+  },
+  {
+    "customer_id": "C0296",
+    "name": "Customer_296",
+    "email": "customer296@example.com",
+    "phone": "9598795670",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-20"
+  },
+  {
+    "customer_id": "C0297",
+    "name": "Customer_297",
+    "email": "customer297@example.com",
+    "phone": "9192465486",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-25"
+  },
+  {
+    "customer_id": "C0298",
+    "name": "Customer_298",
+    "email": "customer298@example.com",
+    "phone": "9407795735",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-19"
+  },
+  {
+    "customer_id": "C0299",
+    "name": "Customer_299",
+    "email": "customer299@example.com",
+    "phone": "9365196673",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-25"
+  },
+  {
+    "customer_id": "C0300",
+    "name": "Customer_300",
+    "email": "customer300@example.com",
+    "phone": "9592444388",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-19"
+  },
+  {
+    "customer_id": "C0301",
+    "name": "Customer_301",
+    "email": "customer301@example.com",
+    "phone": "9714751135",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-30"
+  },
+  {
+    "customer_id": "C0302",
+    "name": "Customer_302",
+    "email": "customer302@example.com",
+    "phone": "9415638808",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-24"
+  },
+  {
+    "customer_id": "C0303",
+    "name": "Customer_303",
+    "email": "customer303@example.com",
+    "phone": "9527021152",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-05"
+  },
+  {
+    "customer_id": "C0304",
+    "name": "Customer_304",
+    "email": "customer304@example.com",
+    "phone": "9162011883",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-30"
+  },
+  {
+    "customer_id": "C0305",
+    "name": "Customer_305",
+    "email": "customer305@example.com",
+    "phone": "9950864363",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-15"
+  },
+  {
+    "customer_id": "C0306",
+    "name": "Customer_306",
+    "email": "customer306@example.com",
+    "phone": "9537476805",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-29"
+  },
+  {
+    "customer_id": "C0307",
+    "name": "Customer_307",
+    "email": "customer307@example.com",
+    "phone": "9555265907",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-30"
+  },
+  {
+    "customer_id": "C0308",
+    "name": "Customer_308",
+    "email": "customer308@example.com",
+    "phone": "9781917692",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-06"
+  },
+  {
+    "customer_id": "C0309",
+    "name": "Customer_309",
+    "email": "customer309@example.com",
+    "phone": "9188330076",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-16"
+  },
+  {
+    "customer_id": "C0310",
+    "name": "Customer_310",
+    "email": "customer310@example.com",
+    "phone": "9316124592",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-07"
+  },
+  {
+    "customer_id": "C0311",
+    "name": "Customer_311",
+    "email": "customer311@example.com",
+    "phone": "9270405919",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-23"
+  },
+  {
+    "customer_id": "C0312",
+    "name": "Customer_312",
+    "email": "customer312@example.com",
+    "phone": "9564491822",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-04"
+  },
+  {
+    "customer_id": "C0313",
+    "name": "Customer_313",
+    "email": "customer313@example.com",
+    "phone": "9728497499",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-02"
+  },
+  {
+    "customer_id": "C0314",
+    "name": "Customer_314",
+    "email": "customer314@example.com",
+    "phone": "9634294593",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-29"
+  },
+  {
+    "customer_id": "C0315",
+    "name": "Customer_315",
+    "email": "customer315@example.com",
+    "phone": "9277673809",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-08"
+  },
+  {
+    "customer_id": "C0316",
+    "name": "Customer_316",
+    "email": "customer316@example.com",
+    "phone": "9342776884",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-12"
+  },
+  {
+    "customer_id": "C0317",
+    "name": "Customer_317",
+    "email": "customer317@example.com",
+    "phone": "9904639572",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-15"
+  },
+  {
+    "customer_id": "C0318",
+    "name": "Customer_318",
+    "email": "customer318@example.com",
+    "phone": "9199685024",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-28"
+  },
+  {
+    "customer_id": "C0319",
+    "name": "Customer_319",
+    "email": "customer319@example.com",
+    "phone": "9611070963",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-14"
+  },
+  {
+    "customer_id": "C0320",
+    "name": "Customer_320",
+    "email": "customer320@example.com",
+    "phone": "9875464306",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-23"
+  },
+  {
+    "customer_id": "C0321",
+    "name": "Customer_321",
+    "email": "customer321@example.com",
+    "phone": "9276296284",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-10"
+  },
+  {
+    "customer_id": "C0322",
+    "name": "Customer_322",
+    "email": "customer322@example.com",
+    "phone": "9600950140",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-22"
+  },
+  {
+    "customer_id": "C0323",
+    "name": "Customer_323",
+    "email": "customer323@example.com",
+    "phone": "9200321297",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-15"
+  },
+  {
+    "customer_id": "C0324",
+    "name": "Customer_324",
+    "email": "customer324@example.com",
+    "phone": "9935146380",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-02"
+  },
+  {
+    "customer_id": "C0325",
+    "name": "Customer_325",
+    "email": "customer325@example.com",
+    "phone": "9691149520",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-30"
+  },
+  {
+    "customer_id": "C0326",
+    "name": "Customer_326",
+    "email": "customer326@example.com",
+    "phone": "9720366226",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-18"
+  },
+  {
+    "customer_id": "C0327",
+    "name": "Customer_327",
+    "email": "customer327@example.com",
+    "phone": "9573506997",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-28"
+  },
+  {
+    "customer_id": "C0328",
+    "name": "Customer_328",
+    "email": "customer328@example.com",
+    "phone": "9141929865",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-20"
+  },
+  {
+    "customer_id": "C0329",
+    "name": "Customer_329",
+    "email": "customer329@example.com",
+    "phone": "9341210385",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-17"
+  },
+  {
+    "customer_id": "C0330",
+    "name": "Customer_330",
+    "email": "customer330@example.com",
+    "phone": "9915753101",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-29"
+  },
+  {
+    "customer_id": "C0331",
+    "name": "Customer_331",
+    "email": "customer331@example.com",
+    "phone": "9257380064",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-06"
+  },
+  {
+    "customer_id": "C0332",
+    "name": "Customer_332",
+    "email": "customer332@example.com",
+    "phone": "9706245716",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-10"
+  },
+  {
+    "customer_id": "C0333",
+    "name": "Customer_333",
+    "email": "customer333@example.com",
+    "phone": "9112372026",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-12"
+  },
+  {
+    "customer_id": "C0334",
+    "name": "Customer_334",
+    "email": "customer334@example.com",
+    "phone": "9423971694",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-12-10"
+  },
+  {
+    "customer_id": "C0335",
+    "name": "Customer_335",
+    "email": "customer335@example.com",
+    "phone": "9370113834",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-23"
+  },
+  {
+    "customer_id": "C0336",
+    "name": "Customer_336",
+    "email": "customer336@example.com",
+    "phone": "9330013280",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-09"
+  },
+  {
+    "customer_id": "C0337",
+    "name": "Customer_337",
+    "email": "customer337@example.com",
+    "phone": "9381205485",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-15"
+  },
+  {
+    "customer_id": "C0338",
+    "name": "Customer_338",
+    "email": "customer338@example.com",
+    "phone": "9623814936",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-25"
+  },
+  {
+    "customer_id": "C0339",
+    "name": "Customer_339",
+    "email": "customer339@example.com",
+    "phone": "9388368627",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-19"
+  },
+  {
+    "customer_id": "C0340",
+    "name": "Customer_340",
+    "email": "customer340@example.com",
+    "phone": "9609424572",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-29"
+  },
+  {
+    "customer_id": "C0341",
+    "name": "Customer_341",
+    "email": "customer341@example.com",
+    "phone": "9729513386",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-25"
+  },
+  {
+    "customer_id": "C0342",
+    "name": "Customer_342",
+    "email": "customer342@example.com",
+    "phone": "9598459011",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-03"
+  },
+  {
+    "customer_id": "C0343",
+    "name": "Customer_343",
+    "email": "customer343@example.com",
+    "phone": "9514776785",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-19"
+  },
+  {
+    "customer_id": "C0344",
+    "name": "Customer_344",
+    "email": "customer344@example.com",
+    "phone": "9739278106",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-06"
+  },
+  {
+    "customer_id": "C0345",
+    "name": "Customer_345",
+    "email": "customer345@example.com",
+    "phone": "9642399336",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-19"
+  },
+  {
+    "customer_id": "C0346",
+    "name": "Customer_346",
+    "email": "customer346@example.com",
+    "phone": "9108564414",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-02"
+  },
+  {
+    "customer_id": "C0347",
+    "name": "Customer_347",
+    "email": "customer347@example.com",
+    "phone": "9222679681",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-19"
+  },
+  {
+    "customer_id": "C0348",
+    "name": "Customer_348",
+    "email": "customer348@example.com",
+    "phone": "9500957943",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-18"
+  },
+  {
+    "customer_id": "C0349",
+    "name": "Customer_349",
+    "email": "customer349@example.com",
+    "phone": "9801878193",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-08"
+  },
+  {
+    "customer_id": "C0350",
+    "name": "Customer_350",
+    "email": "customer350@example.com",
+    "phone": "9821715310",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-31"
+  },
+  {
+    "customer_id": "C0351",
+    "name": "Customer_351",
+    "email": "customer351@example.com",
+    "phone": "9859329306",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-09"
+  },
+  {
+    "customer_id": "C0352",
+    "name": "Customer_352",
+    "email": "customer352@example.com",
+    "phone": "9279378402",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-21"
+  },
+  {
+    "customer_id": "C0353",
+    "name": "Customer_353",
+    "email": "customer353@example.com",
+    "phone": "9824201319",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-02"
+  },
+  {
+    "customer_id": "C0354",
+    "name": "Customer_354",
+    "email": "customer354@example.com",
+    "phone": "9994888096",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-11"
+  },
+  {
+    "customer_id": "C0355",
+    "name": "Customer_355",
+    "email": "customer355@example.com",
+    "phone": "9792182254",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-11"
+  },
+  {
+    "customer_id": "C0356",
+    "name": "Customer_356",
+    "email": "customer356@example.com",
+    "phone": "9225660898",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-26"
+  },
+  {
+    "customer_id": "C0357",
+    "name": "Customer_357",
+    "email": "customer357@example.com",
+    "phone": "9685133379",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-07"
+  },
+  {
+    "customer_id": "C0358",
+    "name": "Customer_358",
+    "email": "customer358@example.com",
+    "phone": "9957722863",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-08"
+  },
+  {
+    "customer_id": "C0359",
+    "name": "Customer_359",
+    "email": "customer359@example.com",
+    "phone": "9960857599",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-14"
+  },
+  {
+    "customer_id": "C0360",
+    "name": "Customer_360",
+    "email": "customer360@example.com",
+    "phone": "9471102753",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-22"
+  },
+  {
+    "customer_id": "C0361",
+    "name": "Customer_361",
+    "email": "customer361@example.com",
+    "phone": "9703898703",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-04"
+  },
+  {
+    "customer_id": "C0362",
+    "name": "Customer_362",
+    "email": "customer362@example.com",
+    "phone": "9747384553",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-24"
+  },
+  {
+    "customer_id": "C0363",
+    "name": "Customer_363",
+    "email": "customer363@example.com",
+    "phone": "9442835670",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-13"
+  },
+  {
+    "customer_id": "C0364",
+    "name": "Customer_364",
+    "email": "customer364@example.com",
+    "phone": "9358228702",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-18"
+  },
+  {
+    "customer_id": "C0365",
+    "name": "Customer_365",
+    "email": "customer365@example.com",
+    "phone": "9862996020",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-07"
+  },
+  {
+    "customer_id": "C0366",
+    "name": "Customer_366",
+    "email": "customer366@example.com",
+    "phone": "9673880852",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-11"
+  },
+  {
+    "customer_id": "C0367",
+    "name": "Customer_367",
+    "email": "customer367@example.com",
+    "phone": "9182522789",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-07"
+  },
+  {
+    "customer_id": "C0368",
+    "name": "Customer_368",
+    "email": "customer368@example.com",
+    "phone": "9100069799",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-18"
+  },
+  {
+    "customer_id": "C0369",
+    "name": "Customer_369",
+    "email": "customer369@example.com",
+    "phone": "9120544822",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-05"
+  },
+  {
+    "customer_id": "C0370",
+    "name": "Customer_370",
+    "email": "customer370@example.com",
+    "phone": "9669489490",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-19"
+  },
+  {
+    "customer_id": "C0371",
+    "name": "Customer_371",
+    "email": "customer371@example.com",
+    "phone": "9857688135",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-20"
+  },
+  {
+    "customer_id": "C0372",
+    "name": "Customer_372",
+    "email": "customer372@example.com",
+    "phone": "9876998661",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-01"
+  },
+  {
+    "customer_id": "C0373",
+    "name": "Customer_373",
+    "email": "customer373@example.com",
+    "phone": "9214619440",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-19"
+  },
+  {
+    "customer_id": "C0374",
+    "name": "Customer_374",
+    "email": "customer374@example.com",
+    "phone": "9219182461",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-05"
+  },
+  {
+    "customer_id": "C0375",
+    "name": "Customer_375",
+    "email": "customer375@example.com",
+    "phone": "9111519695",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-16"
+  },
+  {
+    "customer_id": "C0376",
+    "name": "Customer_376",
+    "email": "customer376@example.com",
+    "phone": "9283307589",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-28"
+  },
+  {
+    "customer_id": "C0377",
+    "name": "Customer_377",
+    "email": "customer377@example.com",
+    "phone": "9593839406",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-06"
+  },
+  {
+    "customer_id": "C0378",
+    "name": "Customer_378",
+    "email": "customer378@example.com",
+    "phone": "9566353894",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-14"
+  },
+  {
+    "customer_id": "C0379",
+    "name": "Customer_379",
+    "email": "customer379@example.com",
+    "phone": "9794366118",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-24"
+  },
+  {
+    "customer_id": "C0380",
+    "name": "Customer_380",
+    "email": "customer380@example.com",
+    "phone": "9368376539",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-26"
+  },
+  {
+    "customer_id": "C0381",
+    "name": "Customer_381",
+    "email": "customer381@example.com",
+    "phone": "9996835307",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-11"
+  },
+  {
+    "customer_id": "C0382",
+    "name": "Customer_382",
+    "email": "customer382@example.com",
+    "phone": "9206373474",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-18"
+  },
+  {
+    "customer_id": "C0383",
+    "name": "Customer_383",
+    "email": "customer383@example.com",
+    "phone": "9219717699",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-03"
+  },
+  {
+    "customer_id": "C0384",
+    "name": "Customer_384",
+    "email": "customer384@example.com",
+    "phone": "9414834971",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-24"
+  },
+  {
+    "customer_id": "C0385",
+    "name": "Customer_385",
+    "email": "customer385@example.com",
+    "phone": "9761001143",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-23"
+  },
+  {
+    "customer_id": "C0386",
+    "name": "Customer_386",
+    "email": "customer386@example.com",
+    "phone": "9510701637",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-02"
+  },
+  {
+    "customer_id": "C0387",
+    "name": "Customer_387",
+    "email": "customer387@example.com",
+    "phone": "9376457056",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-21"
+  },
+  {
+    "customer_id": "C0388",
+    "name": "Customer_388",
+    "email": "customer388@example.com",
+    "phone": "9997698430",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-09-20"
+  },
+  {
+    "customer_id": "C0389",
+    "name": "Customer_389",
+    "email": "customer389@example.com",
+    "phone": "9432365695",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-06"
+  },
+  {
+    "customer_id": "C0390",
+    "name": "Customer_390",
+    "email": "customer390@example.com",
+    "phone": "9565382432",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-04"
+  },
+  {
+    "customer_id": "C0391",
+    "name": "Customer_391",
+    "email": "customer391@example.com",
+    "phone": "9832253115",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-02"
+  },
+  {
+    "customer_id": "C0392",
+    "name": "Customer_392",
+    "email": "customer392@example.com",
+    "phone": "9956783685",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-10"
+  },
+  {
+    "customer_id": "C0393",
+    "name": "Customer_393",
+    "email": "customer393@example.com",
+    "phone": "9337567868",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-12"
+  },
+  {
+    "customer_id": "C0394",
+    "name": "Customer_394",
+    "email": "customer394@example.com",
+    "phone": "9166280898",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-01"
+  },
+  {
+    "customer_id": "C0395",
+    "name": "Customer_395",
+    "email": "customer395@example.com",
+    "phone": "9606320137",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-24"
+  },
+  {
+    "customer_id": "C0396",
+    "name": "Customer_396",
+    "email": "customer396@example.com",
+    "phone": "9253795421",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-23"
+  },
+  {
+    "customer_id": "C0397",
+    "name": "Customer_397",
+    "email": "customer397@example.com",
+    "phone": "9298956121",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-02"
+  },
+  {
+    "customer_id": "C0398",
+    "name": "Customer_398",
+    "email": "customer398@example.com",
+    "phone": "9414276412",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-17"
+  },
+  {
+    "customer_id": "C0399",
+    "name": "Customer_399",
+    "email": "customer399@example.com",
+    "phone": "9107113547",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-23"
+  },
+  {
+    "customer_id": "C0400",
+    "name": "Customer_400",
+    "email": "customer400@example.com",
+    "phone": "9406413569",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-10"
+  },
+  {
+    "customer_id": "C0401",
+    "name": "Customer_401",
+    "email": "customer401@example.com",
+    "phone": "9708935439",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-26"
+  },
+  {
+    "customer_id": "C0402",
+    "name": "Customer_402",
+    "email": "customer402@example.com",
+    "phone": "9424597918",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-26"
+  },
+  {
+    "customer_id": "C0403",
+    "name": "Customer_403",
+    "email": "customer403@example.com",
+    "phone": "9854124832",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-18"
+  },
+  {
+    "customer_id": "C0404",
+    "name": "Customer_404",
+    "email": "customer404@example.com",
+    "phone": "9234899304",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-18"
+  },
+  {
+    "customer_id": "C0405",
+    "name": "Customer_405",
+    "email": "customer405@example.com",
+    "phone": "9707307132",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-13"
+  },
+  {
+    "customer_id": "C0406",
+    "name": "Customer_406",
+    "email": "customer406@example.com",
+    "phone": "9893934357",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-03"
+  },
+  {
+    "customer_id": "C0407",
+    "name": "Customer_407",
+    "email": "customer407@example.com",
+    "phone": "9738370039",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-16"
+  },
+  {
+    "customer_id": "C0408",
+    "name": "Customer_408",
+    "email": "customer408@example.com",
+    "phone": "9462909496",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-02-06"
+  },
+  {
+    "customer_id": "C0409",
+    "name": "Customer_409",
+    "email": "customer409@example.com",
+    "phone": "9933281956",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-06"
+  },
+  {
+    "customer_id": "C0410",
+    "name": "Customer_410",
+    "email": "customer410@example.com",
+    "phone": "9545749827",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-15"
+  },
+  {
+    "customer_id": "C0411",
+    "name": "Customer_411",
+    "email": "customer411@example.com",
+    "phone": "9410907912",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-24"
+  },
+  {
+    "customer_id": "C0412",
+    "name": "Customer_412",
+    "email": "customer412@example.com",
+    "phone": "9938514633",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-04-15"
+  },
+  {
+    "customer_id": "C0413",
+    "name": "Customer_413",
+    "email": "customer413@example.com",
+    "phone": "9874301678",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-26"
+  },
+  {
+    "customer_id": "C0414",
+    "name": "Customer_414",
+    "email": "customer414@example.com",
+    "phone": "9597788607",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-03"
+  },
+  {
+    "customer_id": "C0415",
+    "name": "Customer_415",
+    "email": "customer415@example.com",
+    "phone": "9108763485",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-16"
+  },
+  {
+    "customer_id": "C0416",
+    "name": "Customer_416",
+    "email": "customer416@example.com",
+    "phone": "9930789838",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-29"
+  },
+  {
+    "customer_id": "C0417",
+    "name": "Customer_417",
+    "email": "customer417@example.com",
+    "phone": "9903213631",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-27"
+  },
+  {
+    "customer_id": "C0418",
+    "name": "Customer_418",
+    "email": "customer418@example.com",
+    "phone": "9287320033",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-02-12"
+  },
+  {
+    "customer_id": "C0419",
+    "name": "Customer_419",
+    "email": "customer419@example.com",
+    "phone": "9280647586",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-09"
+  },
+  {
+    "customer_id": "C0420",
+    "name": "Customer_420",
+    "email": "customer420@example.com",
+    "phone": "9437167791",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-20"
+  },
+  {
+    "customer_id": "C0421",
+    "name": "Customer_421",
+    "email": "customer421@example.com",
+    "phone": "9783433282",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-20"
+  },
+  {
+    "customer_id": "C0422",
+    "name": "Customer_422",
+    "email": "customer422@example.com",
+    "phone": "9237633933",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-05"
+  },
+  {
+    "customer_id": "C0423",
+    "name": "Customer_423",
+    "email": "customer423@example.com",
+    "phone": "9545169724",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-21"
+  },
+  {
+    "customer_id": "C0424",
+    "name": "Customer_424",
+    "email": "customer424@example.com",
+    "phone": "9312296162",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-07"
+  },
+  {
+    "customer_id": "C0425",
+    "name": "Customer_425",
+    "email": "customer425@example.com",
+    "phone": "9409571746",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-03"
+  },
+  {
+    "customer_id": "C0426",
+    "name": "Customer_426",
+    "email": "customer426@example.com",
+    "phone": "9698903181",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-10"
+  },
+  {
+    "customer_id": "C0427",
+    "name": "Customer_427",
+    "email": "customer427@example.com",
+    "phone": "9336568159",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-02"
+  },
+  {
+    "customer_id": "C0428",
+    "name": "Customer_428",
+    "email": "customer428@example.com",
+    "phone": "9437970694",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-12-03"
+  },
+  {
+    "customer_id": "C0429",
+    "name": "Customer_429",
+    "email": "customer429@example.com",
+    "phone": "9842317559",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-03"
+  },
+  {
+    "customer_id": "C0430",
+    "name": "Customer_430",
+    "email": "customer430@example.com",
+    "phone": "9806749019",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-11"
+  },
+  {
+    "customer_id": "C0431",
+    "name": "Customer_431",
+    "email": "customer431@example.com",
+    "phone": "9382523532",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-27"
+  },
+  {
+    "customer_id": "C0432",
+    "name": "Customer_432",
+    "email": "customer432@example.com",
+    "phone": "9912850249",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-07-20"
+  },
+  {
+    "customer_id": "C0433",
+    "name": "Customer_433",
+    "email": "customer433@example.com",
+    "phone": "9557263810",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-16"
+  },
+  {
+    "customer_id": "C0434",
+    "name": "Customer_434",
+    "email": "customer434@example.com",
+    "phone": "9275140502",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-21"
+  },
+  {
+    "customer_id": "C0435",
+    "name": "Customer_435",
+    "email": "customer435@example.com",
+    "phone": "9763093921",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-04"
+  },
+  {
+    "customer_id": "C0436",
+    "name": "Customer_436",
+    "email": "customer436@example.com",
+    "phone": "9402639612",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-17"
+  },
+  {
+    "customer_id": "C0437",
+    "name": "Customer_437",
+    "email": "customer437@example.com",
+    "phone": "9839892249",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-21"
+  },
+  {
+    "customer_id": "C0438",
+    "name": "Customer_438",
+    "email": "customer438@example.com",
+    "phone": "9336465388",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-13"
+  },
+  {
+    "customer_id": "C0439",
+    "name": "Customer_439",
+    "email": "customer439@example.com",
+    "phone": "9940692000",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-17"
+  },
+  {
+    "customer_id": "C0440",
+    "name": "Customer_440",
+    "email": "customer440@example.com",
+    "phone": "9522606223",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-03-05"
+  },
+  {
+    "customer_id": "C0441",
+    "name": "Customer_441",
+    "email": "customer441@example.com",
+    "phone": "9408413953",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-08-31"
+  },
+  {
+    "customer_id": "C0442",
+    "name": "Customer_442",
+    "email": "customer442@example.com",
+    "phone": "9701156430",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-05"
+  },
+  {
+    "customer_id": "C0443",
+    "name": "Customer_443",
+    "email": "customer443@example.com",
+    "phone": "9205389181",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-19"
+  },
+  {
+    "customer_id": "C0444",
+    "name": "Customer_444",
+    "email": "customer444@example.com",
+    "phone": "9184440823",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-01"
+  },
+  {
+    "customer_id": "C0445",
+    "name": "Customer_445",
+    "email": "customer445@example.com",
+    "phone": "9741827904",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-06"
+  },
+  {
+    "customer_id": "C0446",
+    "name": "Customer_446",
+    "email": "customer446@example.com",
+    "phone": "9601278283",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-02"
+  },
+  {
+    "customer_id": "C0447",
+    "name": "Customer_447",
+    "email": "customer447@example.com",
+    "phone": "9243111024",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-09"
+  },
+  {
+    "customer_id": "C0448",
+    "name": "Customer_448",
+    "email": "customer448@example.com",
+    "phone": "9554330518",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-24"
+  },
+  {
+    "customer_id": "C0449",
+    "name": "Customer_449",
+    "email": "customer449@example.com",
+    "phone": "9214984410",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-15"
+  },
+  {
+    "customer_id": "C0450",
+    "name": "Customer_450",
+    "email": "customer450@example.com",
+    "phone": "9224258878",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-10"
+  },
+  {
+    "customer_id": "C0451",
+    "name": "Customer_451",
+    "email": "customer451@example.com",
+    "phone": "9249635465",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-12-08"
+  },
+  {
+    "customer_id": "C0452",
+    "name": "Customer_452",
+    "email": "customer452@example.com",
+    "phone": "9405003792",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-03-12"
+  },
+  {
+    "customer_id": "C0453",
+    "name": "Customer_453",
+    "email": "customer453@example.com",
+    "phone": "9844334273",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-17"
+  },
+  {
+    "customer_id": "C0454",
+    "name": "Customer_454",
+    "email": "customer454@example.com",
+    "phone": "9273152366",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-24"
+  },
+  {
+    "customer_id": "C0455",
+    "name": "Customer_455",
+    "email": "customer455@example.com",
+    "phone": "9994327805",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-20"
+  },
+  {
+    "customer_id": "C0456",
+    "name": "Customer_456",
+    "email": "customer456@example.com",
+    "phone": "9198200893",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-09"
+  },
+  {
+    "customer_id": "C0457",
+    "name": "Customer_457",
+    "email": "customer457@example.com",
+    "phone": "9218056509",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-22"
+  },
+  {
+    "customer_id": "C0458",
+    "name": "Customer_458",
+    "email": "customer458@example.com",
+    "phone": "9639351387",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-06-25"
+  },
+  {
+    "customer_id": "C0459",
+    "name": "Customer_459",
+    "email": "customer459@example.com",
+    "phone": "9395383760",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-14"
+  },
+  {
+    "customer_id": "C0460",
+    "name": "Customer_460",
+    "email": "customer460@example.com",
+    "phone": "9800326647",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-26"
+  },
+  {
+    "customer_id": "C0461",
+    "name": "Customer_461",
+    "email": "customer461@example.com",
+    "phone": "9175496682",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-22"
+  },
+  {
+    "customer_id": "C0462",
+    "name": "Customer_462",
+    "email": "customer462@example.com",
+    "phone": "9759660673",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-04-28"
+  },
+  {
+    "customer_id": "C0463",
+    "name": "Customer_463",
+    "email": "customer463@example.com",
+    "phone": "9359955178",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-22"
+  },
+  {
+    "customer_id": "C0464",
+    "name": "Customer_464",
+    "email": "customer464@example.com",
+    "phone": "9293498425",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-23"
+  },
+  {
+    "customer_id": "C0465",
+    "name": "Customer_465",
+    "email": "customer465@example.com",
+    "phone": "9212698650",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-09"
+  },
+  {
+    "customer_id": "C0466",
+    "name": "Customer_466",
+    "email": "customer466@example.com",
+    "phone": "9493300221",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-29"
+  },
+  {
+    "customer_id": "C0467",
+    "name": "Customer_467",
+    "email": "customer467@example.com",
+    "phone": "9344520354",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-29"
+  },
+  {
+    "customer_id": "C0468",
+    "name": "Customer_468",
+    "email": "customer468@example.com",
+    "phone": "9840389202",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-23"
+  },
+  {
+    "customer_id": "C0469",
+    "name": "Customer_469",
+    "email": "customer469@example.com",
+    "phone": "9931080233",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-15"
+  },
+  {
+    "customer_id": "C0470",
+    "name": "Customer_470",
+    "email": "customer470@example.com",
+    "phone": "9211075339",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-08"
+  },
+  {
+    "customer_id": "C0471",
+    "name": "Customer_471",
+    "email": "customer471@example.com",
+    "phone": "9727761335",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-21"
+  },
+  {
+    "customer_id": "C0472",
+    "name": "Customer_472",
+    "email": "customer472@example.com",
+    "phone": "9359483227",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-10"
+  },
+  {
+    "customer_id": "C0473",
+    "name": "Customer_473",
+    "email": "customer473@example.com",
+    "phone": "9882242869",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-11-10"
+  },
+  {
+    "customer_id": "C0474",
+    "name": "Customer_474",
+    "email": "customer474@example.com",
+    "phone": "9894054764",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-05"
+  },
+  {
+    "customer_id": "C0475",
+    "name": "Customer_475",
+    "email": "customer475@example.com",
+    "phone": "9684745811",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-14"
+  },
+  {
+    "customer_id": "C0476",
+    "name": "Customer_476",
+    "email": "customer476@example.com",
+    "phone": "9771097371",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-22"
+  },
+  {
+    "customer_id": "C0477",
+    "name": "Customer_477",
+    "email": "customer477@example.com",
+    "phone": "9889612727",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-19"
+  },
+  {
+    "customer_id": "C0478",
+    "name": "Customer_478",
+    "email": "customer478@example.com",
+    "phone": "9768294139",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-26"
+  },
+  {
+    "customer_id": "C0479",
+    "name": "Customer_479",
+    "email": "customer479@example.com",
+    "phone": "9645717234",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-19"
+  },
+  {
+    "customer_id": "C0480",
+    "name": "Customer_480",
+    "email": "customer480@example.com",
+    "phone": "9219576600",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-01-21"
+  },
+  {
+    "customer_id": "C0481",
+    "name": "Customer_481",
+    "email": "customer481@example.com",
+    "phone": "9274152309",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-05-27"
+  },
+  {
+    "customer_id": "C0482",
+    "name": "Customer_482",
+    "email": "customer482@example.com",
+    "phone": "9564533450",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-02-04"
+  },
+  {
+    "customer_id": "C0483",
+    "name": "Customer_483",
+    "email": "customer483@example.com",
+    "phone": "9573037990",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-14"
+  },
+  {
+    "customer_id": "C0484",
+    "name": "Customer_484",
+    "email": "customer484@example.com",
+    "phone": "9788191829",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-02-16"
+  },
+  {
+    "customer_id": "C0485",
+    "name": "Customer_485",
+    "email": "customer485@example.com",
+    "phone": "9560329060",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-25"
+  },
+  {
+    "customer_id": "C0486",
+    "name": "Customer_486",
+    "email": "customer486@example.com",
+    "phone": "9190368914",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-29"
+  },
+  {
+    "customer_id": "C0487",
+    "name": "Customer_487",
+    "email": "customer487@example.com",
+    "phone": "9180004356",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-30"
+  },
+  {
+    "customer_id": "C0488",
+    "name": "Customer_488",
+    "email": "customer488@example.com",
+    "phone": "9112789695",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-06"
+  },
+  {
+    "customer_id": "C0489",
+    "name": "Customer_489",
+    "email": "customer489@example.com",
+    "phone": "9689737949",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-06-23"
+  },
+  {
+    "customer_id": "C0490",
+    "name": "Customer_490",
+    "email": "customer490@example.com",
+    "phone": "9293226227",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-01-03"
+  },
+  {
+    "customer_id": "C0491",
+    "name": "Customer_491",
+    "email": "customer491@example.com",
+    "phone": "9137086241",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-12-23"
+  },
+  {
+    "customer_id": "C0492",
+    "name": "Customer_492",
+    "email": "customer492@example.com",
+    "phone": "9431562738",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-05-30"
+  },
+  {
+    "customer_id": "C0493",
+    "name": "Customer_493",
+    "email": "customer493@example.com",
+    "phone": "9944817160",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-28"
+  },
+  {
+    "customer_id": "C0494",
+    "name": "Customer_494",
+    "email": "customer494@example.com",
+    "phone": "9967376054",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-07"
+  },
+  {
+    "customer_id": "C0495",
+    "name": "Customer_495",
+    "email": "customer495@example.com",
+    "phone": "9179015767",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-10-15"
+  },
+  {
+    "customer_id": "C0496",
+    "name": "Customer_496",
+    "email": "customer496@example.com",
+    "phone": "9280661368",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-07-07"
+  },
+  {
+    "customer_id": "C0497",
+    "name": "Customer_497",
+    "email": "customer497@example.com",
+    "phone": "9778432893",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-11-19"
+  },
+  {
+    "customer_id": "C0498",
+    "name": "Customer_498",
+    "email": "customer498@example.com",
+    "phone": "9526011630",
+    "city": "Hubli",
+    "state": "Karnataka",
+    "signup_date": "2024-10-21"
+  },
+  {
+    "customer_id": "C0499",
+    "name": "Customer_499",
+    "email": "customer499@example.com",
+    "phone": "9767644536",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "signup_date": "2024-08-16"
+  },
+  {
+    "customer_id": "C0500",
+    "name": "Customer_500",
+    "email": "customer500@example.com",
+    "phone": "9121072898",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "signup_date": "2024-09-29"
+  }
+]
