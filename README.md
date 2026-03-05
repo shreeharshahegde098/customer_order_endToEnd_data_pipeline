@@ -1,4 +1,5 @@
-End-to-End Data Engineering Pipeline using Databricks
+End-to-End Data Engineering Pipeline using Databricks:
+
 Overview
 This project demonstrates an end-to-end data engineering pipeline built using Databricks, PySpark, SQL, and Delta Lake following the Medallion Architecture (Bronze–Silver–Gold).
 The pipeline ingests raw JSON data from AWS S3, performs data cleaning and transformations using PySpark, models the data into a star schema, implements Slowly Changing Dimension (SCD Type 2) for historical tracking, and generates analytical datasets for reporting.
@@ -45,9 +46,9 @@ Slowly Changing Dimension (SCD Type 2)
 SCD Type 2 was implemented on the Customer Dimension to track historical changes in customer attributes.
 
 Fields Added for Tracking:
-# effective_from
-# effective_to
-# is_current
+#effective_from
+#effective_to
+#is_current
 
 Workflow Orchestration::
 The pipeline is automated using Databricks Jobs.
@@ -76,23 +77,23 @@ SQL queries are used to generate analytical reports such as:
 
 
 Tech Stack:::
-1. Data Processing
+1.Data Processing
 
 PySpark
 
 SQL
 
-2. Platform
+2.Platform
 
 Databricks
 
-3. Storage
+3.Storage
 
 AWS S3
 
 Databricks Volumes
 
-4. Data Format
+4.Data Format
 
 JSON
 
