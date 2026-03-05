@@ -14,14 +14,6 @@ The pipeline performs the following tasks:
 ---
 
 
-## 🏗 Architecture Diagram
-
-flowchart TD
-    A[S3 (Raw JSON Data)] --> B[Bronze Layer <br/> (Databricks Volumes / S3)]
-    B --> C[Silver Layer <br/> (PySpark Transformations)]
-    C --> D[Gold Layer <br/> (Star Schema + Delta Tables)]
-    D --> E[SQL Analytics / Reports]
-
 ## 🧱 Medallion Architecture
 
 ### Bronze Layer – Raw Data Ingestion
