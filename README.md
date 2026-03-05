@@ -12,6 +12,22 @@ The pipeline performs the following tasks:
 - Automates the workflow using Databricks Jobs
 
 ---
+ 
+## 🏗 Architecture Diagram
+
+S3 (Raw JSON Data)
+        │
+        ▼
+Bronze Layer (Databricks Volumes/ S3)
+        │
+        ▼
+Silver Layer (PySpark Transformations)
+        │
+        ▼
+Gold Layer (Star Schema + Delta Tables)
+        │
+        ▼
+SQL Analytics / Reports
 
 ## 🧱 Medallion Architecture
 
